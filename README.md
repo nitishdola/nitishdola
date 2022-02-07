@@ -1,4 +1,4 @@
-<h3 align="center">Hello World. I'm NItish</h3>
+<h3 align="center">Hello World. I'm <a href="https://github.com/nitishdola/" target="blank"> Nitish </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishdola&label=Profile%20views&color=0e75b6&style=flat" alt="nitishdola" /> </p>
 
@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://dev.to/nitishdola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nitishdola" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitish-dolakasharia-76769335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-dolakasharia-76769335/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/729144/nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/729144/nitish" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/729144/nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/729144/nitish" height="30" width="40" /></a>
 <a href="https://fb.com/nitishdola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitishdola" height="30" width="40" /></a>
 <a href="https://instagram.com/nitishdolakasharia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitishdolakasharia" height="30" width="40" /></a>
 </p>
