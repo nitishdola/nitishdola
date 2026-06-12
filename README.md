@@ -26,16 +26,14 @@ I build robust web applications, integrate intelligent computer vision solutions
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishdola&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishdola&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-*   🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-*   📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   💼 **LinkedIn:** [linkedin.com/in/nitish-dolakasharia-76769335](https://www.linkedin.com/in/nitish-dolakasharia-76769335/)
+*   📧 **Email:** [nitish.dola@gmail.com](mailto:nitish.dola@gmail.com)
 
-"Quality is not an act, it is a habit." ⚡
